@@ -22,7 +22,7 @@ The Calico Users [slack group](https://slack.projectcalico.org) is a great place
 
 Join the other Calico heroes by contributing to the project. Everything from a new feature through to a one character docs fix is welcome.
 
-To get started, read this [guide](https://github.com/projectcalico/calico/blob/master/CONTRIBUTING_CODE.md). We encourage you to connect with other contributors and maintainers in the `#calico-dev` channel in the Calico Users [slack group](https://slack.projectcalico.org)
+To get started, read this [guide](https://github.com/projectcalico/calico/blob/master/CONTRIBUTING_CODE.md). We encourage you to connect with other contributors and maintainers in the `#contributors` channel in the Calico Users [slack group](https://slack.projectcalico.org)
 
 
 If you are looking for open github issues to potentially help work on, these filters are a good starting point:
