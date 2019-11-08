@@ -15,7 +15,7 @@ https://docs.google.com/document/d/1b6-ZS7UmRP_-XDq4XnlaKyb7lW9xbnzJ4mt5JK7ASHY/
 
 ## Slack
 
-The Calico Users [slack group](https://slack.projectcalico.org) is a great place to get community support or connect with  other users and Calico developers. 
+The Calico Users [slack group](https://slack.projectcalico.org) is a great place to get community support or connect with other users and Calico developers.
 
 [![Slack Status](https://slack.projectcalico.org/badge.svg)](https://slack.projectcalico.org)
 
@@ -34,7 +34,7 @@ If you are looking for open github issues to potentially help work on, these fil
 
 ## Code of Conduct
 
-We are dedicatee to providing a welcoming and harassment-free experience for everyone. We ask that our users and contributors take a few minutes to review our [code of conduct](CODE_OF_CONDUCT.md).
+We are dedicated to providing a welcoming and harassment-free experience for everyone. We ask that our users and contributors take a few minutes to review our [code of conduct](CODE_OF_CONDUCT.md).
 
 ## Acknowledgments
 
