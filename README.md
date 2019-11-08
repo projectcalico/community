@@ -9,8 +9,9 @@ The Calico maintainers host a monthly online community meeting where everyone is
 
 * [Community Event Calendar](
 https://calendar.google.com/calendar/embed?src=tigera.io_uunmavdev5ndovf0hc4frtl0i0%40group.calendar.google.com) (google calendar)
+* [Zoom Meeting](https://zoom.us/j/270294702) (additional dial in details in calendar)
 * [Meeting Details](
-https://docs.google.com/document/d/1b6-ZS7UmRP_-XDq4XnlaKyb7lW9xbnzJ4mt5JK7ASHY/edit?usp=sharing) (agenda, minutes, and recordings)
+https://docs.google.com/document/d/1b6-ZS7UmRP_-XDq4XnlaKyb7lW9xbnzJ4mt5JK7ASHY/) (agenda, minutes, and recordings)
 
 ## Slack
 
