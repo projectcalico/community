@@ -15,9 +15,15 @@ https://docs.google.com/document/d/1b6-ZS7UmRP_-XDq4XnlaKyb7lW9xbnzJ4mt5JK7ASHY/
 
 ## Slack
 
-The Calico Users [slack group](https://slack.projectcalico.org) is a great place to get community support or connect with other users and Calico developers.
+The Calico Users [Slack group](https://slack.projectcalico.org) is a great place to get community support or connect with other users and Calico developers.
 
 [![Slack Status](https://slack.projectcalico.org/badge.svg)](https://slack.projectcalico.org)
+
+## Discourse
+
+The Calico [Discourse forum](https://discuss.projectcalico.org) is another great place to get help, find answer to common questions, or raise any other Calico related topic for discussion.
+
+[![Discourse Status](https://img.shields.io/discourse/status.svg?server=https%3A%2F%2Fdiscuss.projectcalico.org)](https://discuss.projectcalico.org)
 
 ## Contributing
 
