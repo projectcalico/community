@@ -13,7 +13,7 @@ talk about, please add it to the upcoming meeting agenda.
 
 - [Community Event Calendar](https://calendar.google.com/calendar/embed?src=tigera.io_uunmavdev5ndovf0hc4frtl0i0%40group.calendar.google.com)
   (google calendar)
-- [Zoom Meeting](https://zoom.us/j/270294702) (additional dial in details in calendar)
+- [Zoom Meeting](https://zoom.us/j/270294702?pwd=K1dsSEpwUDVPZEozSmJONFNtRXVZUT09) (additional dial in details in calendar)
 - [Meeting Details](https://docs.google.com/document/d/1b6-ZS7UmRP_-XDq4XnlaKyb7lW9xbnzJ4mt5JK7ASHY/)
   (agenda, minutes, and recordings)
 
