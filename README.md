@@ -49,7 +49,7 @@ If you are looking for open github issues to potentially help work on, these fil
 (you must be logged in to GitHub to see these issues):
 
 * First time contributor help wanted
-  [issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3Aprojectcalico+label%3A%22good-first-issue%22+)
+  [issues](https://github.com/issues?q=is%3Aopen+user%3Aprojectcalico+label%3A%22good+first+issue%22+)
 * Full list of help wanted
   [issues](https://github.com/issues?utf8=%E2%9C%93&q=is%3Aopen+user%3Aprojectcalico+label%3A%22help+wanted%22+)
 
