@@ -11,11 +11,12 @@ the community.
 The Calico maintainers host a monthly online community meeting where everyone is welcome. If you have something you’d like to
 talk about, please add it to the upcoming meeting agenda.
 
-- [Community Event Calendar](https://calendar.google.com/calendar/embed?src=tigera.io_uunmavdev5ndovf0hc4frtl0i0%40group.calendar.google.com)
+- [Community Event Calendar](https://calendar.google.com/calendar/u/0?cid=Y183MDE5YTcyMDQ2OTYzYmJhMWJkN2RhZWFmMTUyNjY2Mjk4NDVhMGU0MjFjNzk1MTAxNjE2YzdjMTE5NDM0N2EwQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
   (google calendar)
-- [Zoom Meeting](https://zoom.us/j/270294702?pwd=K1dsSEpwUDVPZEozSmJONFNtRXVZUT09) (additional dial in details in calendar)
+- Zoom Meeting information can be found in the Calendar invite.
 - [Meeting Details](https://docs.google.com/document/d/1b6-ZS7UmRP_-XDq4XnlaKyb7lW9xbnzJ4mt5JK7ASHY/)
   (agenda, minutes, and recordings)
+- Past recordings are available on [YouTube](https://www.youtube.com/watch?v=xDfnXvaQBTE&list=PLoWxE_5hnZUZVtyzi91vSlcdKbAkoCz-_)
 
 
 ## Slack
@@ -24,12 +25,10 @@ other users and Calico developers.
 
 [![Slack Status](https://slack.projectcalico.org/badge.svg)](https://slack.projectcalico.org)
 
-## Discourse
+## Discussion
 
-The Calico [Discourse forum](https://discuss.projectcalico.org) is another great place to get help, find answer to common
+The Calico [Discussion forum](https://github.com/orgs/projectcalico/discussions) is another great place to get help, find answer to common
 questions, or raise any other Calico related topic for discussion.
-
-[![Discourse Status](https://img.shields.io/discourse/status.svg?server=https%3A%2F%2Fdiscuss.projectcalico.org)](https://discuss.projectcalico.org)
 
 ## Twitter
 
