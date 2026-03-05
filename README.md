@@ -1,4 +1,5 @@
-![Calico Logo](images/calico-animated.gif)
+<img width="150" height="150" alt="Calico-logo-2026-G2-800x800" src="https://github.com/user-attachments/assets/a27fdfcf-35ec-4fcd-bfef-b55ddbb900ca" />
+
 
 # Calico Community
 
